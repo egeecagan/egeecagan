@@ -9,7 +9,9 @@ i have just completed the **second year** of my studies
 - languages: `java`, `c`, `sql`
 - currently learning: `german (a1)`, planning to learn `python` or `rust` soon
 
----
+## contact information
+
+- egeecagan@gmail.com
 
 ## 📈 github stats
 
