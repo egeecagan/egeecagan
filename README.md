@@ -32,5 +32,5 @@ I'm an engineering student with a growing passion for computer science. I enjoy 
 
 ## 📈 GitHub Stats
 
-![Ege's GitHub Stats](https://github-readme-stats.vercel.app/api?username=egeozcan&show_icons=true&theme=default)
+![Ege's GitHub Stats](https://github-readme-stats.vercel.app/api?username=egeecagan&show_icons=true&theme=default)
 
