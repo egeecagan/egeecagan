@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# hi there 💁, my name is Ege
+# i am ege 🎙️
 
 i am an engineering student with a growing passion for computer science. i enjoy exploring the core concepts of programming such as **data structures**, **algorithms**, and **computer networks**.
 
-## my tech stack
+## 🦾 my tech stack
 
 - languages: `java`, `c`, `sql`
 - currently learning: `german (a1)`, planning to learn `python` or `rust` soon
