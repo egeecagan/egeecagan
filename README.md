@@ -13,24 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 💁, my name is Ege
+# hi there 💁, my name is Ege
 
-I'm an engineering student with a growing passion for computer science. I enjoy exploring the core concepts of programming such as **data structures**, **algorithms**, and **computer networks**.
+i am an engineering student with a growing passion for computer science. i enjoy exploring the core concepts of programming such as **data structures**, **algorithms**, and **computer networks**.
 
-## 💻 Tech Stack
+## my tech stack
 
-- Languages: `Java`, `C`, `SQL`
-- Currently learning: `German (A1)`, planning to learn `Python` or `Rust` soon
-
-## 🚀 Goals
-
-- Deepen my understanding of system-level programming
-- Build hands-on projects involving data communication
-- Participate in open-source contributions in the near future
+- languages: `java`, `c`, `sql`
+- currently learning: `german (a1)`, planning to learn `python` or `rust` soon
 
 ---
 
-## 📈 GitHub Stats
+## 📈 gitHub stats
 
-![Ege's GitHub Stats](https://github-readme-stats.vercel.app/api?username=egeecagan&show_icons=true&theme=default)
+![ege s github stats](https://github-readme-stats.vercel.app/api?username=egeecagan&show_icons=true&theme=default)
 
