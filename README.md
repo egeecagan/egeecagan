@@ -10,8 +10,3 @@ i have just completed the **second year** of my studies
 
 ## 🖇️ contact information
 *egeecagan@gmail.com*
-
-## 📈 github stats
-
-![ege s github stats](https://github-readme-stats.vercel.app/api?username=egeecagan&show_icons=true&theme=default)
-
