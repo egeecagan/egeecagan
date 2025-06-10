@@ -5,7 +5,7 @@ i have just completed the **second year** of my studies
 
 ## 🦾 my tech stack
 
-- languages: `java`, `c`, `sql`
+- languages: `java`, `c`, `sql (mysql)`
 - currently learning: `german (a1)`, planning to learn `python` or `rust` soon
 
 ## 🖇️ contact information
