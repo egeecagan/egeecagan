@@ -4,9 +4,8 @@ i am an engineering student with a growing passion for computer science. i enjoy
 i have just completed the **second year** of my studies
 
 ## 🦾 my tech stack
-
 - languages: `java`, `c`, `sql (mysql)`
-- currently learning: `german (a1)`, planning to learn `python` or `rust` soon
+- currently learning: `python`
 
 ## 🖇️ contact information
 *egeecagan@gmail.com*
