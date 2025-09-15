@@ -1,8 +1,4 @@
-# 🗣️ my name is *ege*
-
-## 🦾 my tech stack
-- languages: `java`, `c`, `sql (mysql)`
-- currently learning: `python`
+# 🗣️ my name is *ege* 
 
 ## 🖇️ contact information
 - *egeecagan@gmail.com*
