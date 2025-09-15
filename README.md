@@ -5,5 +5,5 @@
 - currently learning: `python`
 
 ## 🖇️ contact information
-*egeecagan@gmail.com*
-*https://www.egecagan.com*
+- *egeecagan@gmail.com*
+- *https://www.egecagan.com*
