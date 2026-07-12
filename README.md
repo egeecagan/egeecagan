@@ -2,7 +2,7 @@
 
 ## 🖇️ contact information
 - 📧 *egeecagan@gmail.com*
-- 🌐 *https://www.egecagan.com*
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egecagan/)
 
 # Can use
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
